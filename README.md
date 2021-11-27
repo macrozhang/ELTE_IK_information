@@ -5,7 +5,7 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=macrozhang.visitor-badge)
 
 [![GitHub issues](https://img.shields.io/github/issues/macrozhang/ELTE_IK_information)](https://github.com/macrozhang/ELTE_IK_information/issues)
-[![GitHub stars](https://img.shields.io/github/stars/macrozhang/ELTE_IK_information)](https://github.com/macrozhang/ELTE_IK_information/stargazers)
+[![GitHub stars](https://img.shields.io/github/stars/macrozhang/ELTE_IK_information)
 [![GitHub forks](https://img.shields.io/github/forks/macrozhang/ELTE_IK_information)](https://github.com/macrozhang/ELTE_IK_information/network)
 
 **项目名称**: 暂拟, 之后会不断更新.  
