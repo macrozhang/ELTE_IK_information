@@ -2,6 +2,8 @@
 
 <!-- PROJECT SHIELDS -->
 
+![visitor badge](https://visitor-badge.glitch.me/badge?page_id=macrozhang.visitor-badge)
+
 [![GitHub issues](https://img.shields.io/github/issues/macrozhang/ELTE_IK_information)](https://github.com/macrozhang/ELTE_IK_information/issues)
 [![GitHub stars](https://img.shields.io/github/stars/macrozhang/ELTE_IK_information)](https://github.com/macrozhang/ELTE_IK_information/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/macrozhang/ELTE_IK_information)](https://github.com/macrozhang/ELTE_IK_information/network)
